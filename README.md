@@ -1,2 +1,1 @@
-# blockchain-dictionary
-区块链字典
+# IT Dict 计算机字典
